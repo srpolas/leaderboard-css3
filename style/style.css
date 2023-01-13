@@ -1,0 +1,11 @@
+/* Top Players Style  */
+.players{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.player img{
+    width: 56px;
+    height: 56px;
+}
+
